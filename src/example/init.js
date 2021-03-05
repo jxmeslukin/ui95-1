@@ -1,4 +1,4 @@
-import Shell from "../apps/shell/index.js";
+import Shell from "../apps/shell/index"
 import { h, render, Component } from "preact";
 import domready from "domready";
 import { Filesystem, File } from "../lib/filesystem";
